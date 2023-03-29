@@ -1,1 +1,1 @@
-# Simple-Proxy-Server
+A simple proxy server implemented with python for computer networks course.
